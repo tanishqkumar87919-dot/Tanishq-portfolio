@@ -1,6 +1,6 @@
 # Tanishq Kumar — Data Analyst Portfolio
 
-[![Vercel Deploy](https://deploy.workers.cloudflare.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Ftanishqkumar87919-dot%2Ftanishq-portfolio)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Ftanishqkumar87919-dot%2Ftanishq-portfolio)
 [![GitHub](https://img.shields.io/badge/GitHub-tanishqkumar87919--dot-181717?style=flat&logo=github)](https://github.com/tanishqkumar87919-dot)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tanishq_Kumar-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/tanishq-kumar-272a712b5/)
 
